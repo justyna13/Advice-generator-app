@@ -2,9 +2,7 @@ import { AdviceCard } from "./AdviceCard";
 
 function App() {
   return (
-    <div>
-      <AdviceCard />
-    </div>
+    <AdviceCard />
   );
 }
 
